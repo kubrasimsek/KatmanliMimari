@@ -1,0 +1,15 @@
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Data.deps.json
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Data.runtimeconfig.json
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Data.runtimeconfig.dev.json
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Data.dll
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Data.pdb
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Core.dll
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\bin\Debug\netcoreapp3.1\KatmanliMimari.Core.pdb
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.csprojAssemblyReference.cache
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.AssemblyInfoInputs.cache
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.AssemblyInfo.cs
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.csproj.CoreCompileInputs.cache
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.csproj.CopyComplete
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.dll
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.pdb
+E:\uygulama\KatmanliMimari\KatmanliMimari.Data\obj\Debug\netcoreapp3.1\KatmanliMimari.Data.genruntimeconfig.cache
